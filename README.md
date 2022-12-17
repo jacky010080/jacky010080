@@ -12,6 +12,8 @@
 <br>
 <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/jacky010080)
+
 
 <h3>My Github Trophy:</h3>
 <img src="https://github-profile-trophy.vercel.app/?username=jacky010080">
