@@ -10,7 +10,7 @@
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white) ![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
 
 
-![Codewars States](https://www.codewars.com/users/jacky010080/badges/small)
+![Codewars States](https://www.codewars.com/users/jacky010080/badges/large)
 <br>
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/jacky010080)
